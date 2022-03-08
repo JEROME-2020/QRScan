@@ -1,1 +1,1 @@
-# Jerome Pogi
+# Barangay information System
